@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b68b6831fabcb488b9e9e18996bb88, type: 3}
+  m_Name: sceneData
+  m_EditorClassIdentifier: 
+  spawnPosition: {fileID: 7281298374495688612, guid: b3e9f37890d46c5419548f8dac1901c3, type: 3}
+  material:
+  - {fileID: 2100000, guid: 20e465b405b960d42a6a4043a0009b41, type: 2}
+  - {fileID: 2100000, guid: 6f185ebc044507d4f802e00c102f0e6b, type: 2}
+  skinCube:
+  - {fileID: 2100000, guid: 5ef58c732b9a7464ead35c3817271034, type: 2}
+  - {fileID: 2100000, guid: 9104b275e83e07b4f83e637c4e5de8f8, type: 2}
+  - {fileID: 2100000, guid: a75c4e6e1e980be40b52abed280d4660, type: 2}
+  cubeType: 0
+  lenghtField: 6
+  numberLevel: 1
+  coinCounter: 152
+  fieldFull: 0
+  needFull: 4
+  indexSkin: 1
+  levelCountAll: 0
+  speedCube: 2
+  sizeCell: 2
+  timerCube: 30
+  isWin: 0
+  isLose: 0
+  isGameOn: 1
+  isRandomLevel: 0
+  isStartGame: 1
